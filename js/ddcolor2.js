@@ -13,7 +13,7 @@ function fillDropdown2(item){
     el.value = item[1]
     ddColors2.appendChild(el);
 }
-
+//
 function fillDropdownObj(item){
     const el = document.createElement("option")
     console.log(item)
